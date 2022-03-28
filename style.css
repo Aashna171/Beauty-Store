@@ -69,3 +69,6 @@ td{
 p{
     font-size: larger;
 }
+tr:hover{
+    background-color: rgb(255, 88, 116);
+}
